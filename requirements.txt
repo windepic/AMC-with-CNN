@@ -1,0 +1,7 @@
+
+numpy
+scikit-learn
+tensorflow>=2.9
+matplotlib
+seaborn
+imblearn
