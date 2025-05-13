@@ -34,9 +34,9 @@ The best-performing model is a Residual CNN with SNR input fusion, achieving 66.
 ## Visualization
 
 ### Accuracy vs. SNR  
-![Accuracy by SNR](main/model_D.png)
+![Accuracy by SNR](model_D.png)
 
 ### Confusion Matrix  
-![Confusion Matrix](mzin/matrix.png)
+![Confusion Matrix](matrix.png)
 
 
