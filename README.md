@@ -2,7 +2,7 @@
 
 # Automatic Modulation Classification (AMC)
 
-This repository implements and compares deep learning models for Automatic Modulation Classification (AMC) on the RadioML 2016.10A dataset. Developed as part of a final-year project at the University of Bristol, this work explores a variety of architectures including CNNs, LSTMs, Transformers, GANs, and Autoencoders, with a focus on SNR-aware fusion.
+This repository implements and compares deep learning models for Automatic Modulation Classification (AMC) on the RadioML 2016.10A dataset. This work explores a variety of architectures including CNNs, LSTMs, Transformers, GANs, and Autoencoders, with a focus on SNR-aware fusion.
 
 The best-performing model is a Residual CNN with SNR input fusion, achieving 66.16% test accuracy.
 
