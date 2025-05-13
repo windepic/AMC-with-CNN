@@ -32,12 +32,12 @@ The best-performing model is a Residual CNN with SNR input fusion, achieving 66.
 | M        | Autoencoder + Classifier    | Encoder + FC layer             |
 
 ## Visualization
-
 ### Model D Architecture  
-![SNR Curve](.model_D.png)
+![Model D](model_D.png)
 
 ### Confusion Matrix  
-![Confusion Matrix](.matrix.png)
+![Confusion Matrix](matrix.png)
+
 
 
 
