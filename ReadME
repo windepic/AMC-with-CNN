@@ -5,7 +5,7 @@
 ### Model Overview
 
 | Model ID | Architecture Type           | Notes                          |
-|----------|-----------------------------|---------------------------------|
+|----------|-----------------------------|--------------------------------|
 | Basic    | Baseline CNN                | Single Conv1D + Dense layers   |
 | A–F      | CNN Variants                | Filters, depth, dropout tuning |
 | D        | Residual CNN + SNR fusion   | Main optimized model           |
